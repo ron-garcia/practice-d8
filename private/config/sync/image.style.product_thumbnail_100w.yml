@@ -1,0 +1,15 @@
+uuid: 8689ec18-9cea-44ea-8658-3c41bd08e387
+langcode: en
+status: true
+dependencies: {  }
+name: product_thumbnail_100w
+label: 'Product Thumbnail 100w'
+effects:
+  a5c4fd94-6fbc-4fd1-9ec8-1ff9d5c4d243:
+    uuid: a5c4fd94-6fbc-4fd1-9ec8-1ff9d5c4d243
+    id: image_scale
+    weight: 1
+    data:
+      width: 100
+      height: null
+      upscale: false

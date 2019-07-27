@@ -1,0 +1,8 @@
+uuid: 686037a6-6387-490f-a26e-87a4fa861c50
+langcode: en
+status: true
+dependencies: {  }
+name: Process
+vid: product_process
+description: ''
+weight: 0

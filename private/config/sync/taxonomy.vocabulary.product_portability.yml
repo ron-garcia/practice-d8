@@ -1,0 +1,8 @@
+uuid: 793c327c-5323-46f3-a327-a248f6f4b46e
+langcode: en
+status: true
+dependencies: {  }
+name: Portability
+vid: product_portability
+description: ''
+weight: 0
