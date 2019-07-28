@@ -1,0 +1,22 @@
+uuid: 89ad5269-b902-4a70-af12-028d92fe2e66
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: product_path_aliases_in_english
+label: 'Product path aliases in English'
+type: 'canonical_entities:node'
+pattern: 'product/[node:title]'
+selection_criteria:
+  3eff052c-fcc8-4e6d-811b-ea0a83a348ee:
+    id: node_type
+    bundles:
+      product: product
+    negate: false
+    context_mapping:
+      node: node
+    uuid: 3eff052c-fcc8-4e6d-811b-ea0a83a348ee
+selection_logic: and
+weight: -5
+relationships: {  }

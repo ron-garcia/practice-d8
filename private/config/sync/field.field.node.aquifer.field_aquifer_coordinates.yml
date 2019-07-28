@@ -1,0 +1,19 @@
+uuid: d44e3845-f9f7-485d-934b-2f55cbc1efd3
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_aquifer_coordinates
+    - node.type.aquifer
+id: node.aquifer.field_aquifer_coordinates
+field_name: field_aquifer_coordinates
+entity_type: node
+bundle: aquifer
+label: 'Aquifer coordinates'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

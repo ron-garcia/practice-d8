@@ -1,0 +1,22 @@
+uuid: 9c935c70-055f-40a2-a373-1a812a0c606e
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: basic_page_path_aliases_in_english
+label: 'Basic page path aliases in English'
+type: 'canonical_entities:node'
+pattern: '[node:title]'
+selection_criteria:
+  4ea2f950-1ae2-4a61-8e64-41420be98877:
+    id: node_type
+    bundles:
+      page: page
+    negate: false
+    context_mapping:
+      node: node
+    uuid: 4ea2f950-1ae2-4a61-8e64-41420be98877
+selection_logic: and
+weight: -5
+relationships: {  }

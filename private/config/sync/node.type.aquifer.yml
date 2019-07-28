@@ -1,0 +1,17 @@
+uuid: 14c9cc42-ed56-4d2d-875b-eca733968cc6
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus: {  }
+    parent: ''
+name: Aquifer
+type: aquifer
+description: 'The Aquifer content type holds information about acquifers throughout the world. We collect this data from a third-party service.'
+help: ''
+new_revision: true
+preview_mode: 0
+display_submitted: false

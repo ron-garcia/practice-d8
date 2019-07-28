@@ -1,0 +1,24 @@
+uuid: d9fff1b5-7508-464c-9c9e-5847a4f26221
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.aquifier_block
+  module:
+    - views
+  theme:
+    - bartik
+id: views_block__aquifier_block_block_1
+theme: bartik
+region: sidebar_first
+weight: 0
+provider: null
+plugin: 'views_block:aquifier_block-block_1'
+settings:
+  id: 'views_block:aquifier_block-block_1'
+  label: ''
+  provider: views
+  label_display: visible
+  views_label: ''
+  items_per_page: none
+visibility: {  }

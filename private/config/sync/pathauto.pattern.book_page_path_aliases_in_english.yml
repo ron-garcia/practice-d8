@@ -1,0 +1,22 @@
+uuid: aa1fbed9-68c0-4b9f-9646-63a089cd74b2
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: book_page_path_aliases_in_english
+label: 'Book page path aliases in English'
+type: 'canonical_entities:node'
+pattern: 'documentation/[node:field_product]/[node:title]'
+selection_criteria:
+  68f0c820-7bea-4987-ba61-dd6b58eb2273:
+    id: node_type
+    bundles:
+      book: book
+    negate: false
+    context_mapping:
+      node: node
+    uuid: 68f0c820-7bea-4987-ba61-dd6b58eb2273
+selection_logic: and
+weight: -5
+relationships: {  }

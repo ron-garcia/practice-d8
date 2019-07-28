@@ -119,7 +119,7 @@ $options['packages'] = array (
         0 => 'drupal:file',
         1 => 'drupal:options',
       ),
-      'mtime' => 1563294297,
+      'mtime' => 1564266142,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/aggregator/aggregator.info.yml',
       'status' => 0,
@@ -173,7 +173,7 @@ $options['packages'] = array (
       array (
         0 => 'drupal:user',
       ),
-      'mtime' => 1563294297,
+      'mtime' => 1564266142,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/basic_auth/basic_auth.info.yml',
       'status' => 0,
@@ -229,7 +229,7 @@ $options['packages'] = array (
         2 => 'drupal:user',
       ),
       'configure' => 'entity.block_content.collection',
-      'mtime' => 1563294297,
+      'mtime' => 1564266142,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/block_content/block_content.info.yml',
       'status' => 1,
@@ -248,7 +248,7 @@ $options['packages'] = array (
       array (
         0 => 'drupal:block',
       ),
-      'mtime' => 1563294297,
+      'mtime' => 1564266143,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/block_place/block_place.info.yml',
       'status' => 0,
@@ -267,11 +267,11 @@ $options['packages'] = array (
         0 => 'drupal:node',
       ),
       'configure' => 'book.settings',
-      'mtime' => 1563294297,
+      'mtime' => 1564266143,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/book/book.info.yml',
-      'status' => 0,
-      'schema_version' => -1,
+      'status' => 1,
+      'schema_version' => 8000,
     ),
     'breakpoint' => 
     array (
@@ -302,7 +302,7 @@ $options['packages'] = array (
       array (
         0 => 'drupal:editor',
       ),
-      'mtime' => 1563294297,
+      'mtime' => 1564266143,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/ckeditor/ckeditor.info.yml',
       'status' => 1,
@@ -338,11 +338,11 @@ $options['packages'] = array (
         0 => 'drupal:text',
       ),
       'configure' => 'comment.admin',
-      'mtime' => 1563294297,
+      'mtime' => 1564266143,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/comment/comment.info.yml',
-      'status' => 1,
-      'schema_version' => '8701',
+      'status' => 0,
+      'schema_version' => -1,
     ),
     'config' => 
     array (
@@ -375,7 +375,7 @@ $options['packages'] = array (
       array (
         0 => 'drupal:locale',
       ),
-      'mtime' => 1563294297,
+      'mtime' => 1564266144,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/config_translation/config_translation.info.yml',
       'status' => 0,
@@ -412,7 +412,7 @@ $options['packages'] = array (
       array (
         0 => 'drupal:workflows',
       ),
-      'mtime' => 1563294297,
+      'mtime' => 1564266144,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/content_moderation/content_moderation.info.yml',
       'status' => 0,
@@ -431,7 +431,7 @@ $options['packages'] = array (
       'version' => '8.7.5',
       'core' => '8.x',
       'configure' => 'language.content_settings_page',
-      'mtime' => 1563294297,
+      'mtime' => 1564266144,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/content_translation/content_translation.info.yml',
       'status' => 0,
@@ -466,7 +466,7 @@ $options['packages'] = array (
       array (
         0 => 'drupal:field',
       ),
-      'mtime' => 1563294297,
+      'mtime' => 1564266144,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/datetime/datetime.info.yml',
       'status' => 1,
@@ -484,7 +484,7 @@ $options['packages'] = array (
       array (
         0 => 'drupal:datetime',
       ),
-      'mtime' => 1563294297,
+      'mtime' => 1564266144,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/datetime_range/datetime_range.info.yml',
       'status' => 0,
@@ -539,7 +539,7 @@ $options['packages'] = array (
         1 => 'drupal:file',
       ),
       'configure' => 'filter.admin_overview',
-      'mtime' => 1563294297,
+      'mtime' => 1564266144,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/editor/editor.info.yml',
       'status' => 1,
@@ -592,7 +592,7 @@ $options['packages'] = array (
       array (
         0 => 'drupal:layout_discovery',
       ),
-      'mtime' => 1563294297,
+      'mtime' => 1564266144,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/field_layout/field_layout.info.yml',
       'status' => 0,
@@ -610,7 +610,7 @@ $options['packages'] = array (
       array (
         0 => 'drupal:field',
       ),
-      'mtime' => 1563294297,
+      'mtime' => 1564266144,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/field_ui/field_ui.info.yml',
       'status' => 1,
@@ -628,7 +628,7 @@ $options['packages'] = array (
       array (
         0 => 'drupal:field',
       ),
-      'mtime' => 1563294297,
+      'mtime' => 1564266144,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/file/file.info.yml',
       'status' => 1,
@@ -647,7 +647,7 @@ $options['packages'] = array (
       array (
         0 => 'drupal:user',
       ),
-      'mtime' => 1563294297,
+      'mtime' => 1564266145,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/filter/filter.info.yml',
       'status' => 1,
@@ -670,7 +670,7 @@ $options['packages'] = array (
       'version' => '8.7.5',
       'core' => '8.x',
       'configure' => 'forum.overview',
-      'mtime' => 1563294297,
+      'mtime' => 1564266145,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/forum/forum.info.yml',
       'status' => 0,
@@ -688,7 +688,7 @@ $options['packages'] = array (
       array (
         0 => 'drupal:serialization',
       ),
-      'mtime' => 1563294297,
+      'mtime' => 1564266145,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/hal/hal.info.yml',
       'status' => 0,
@@ -723,7 +723,7 @@ $options['packages'] = array (
       array (
         0 => 'drupal:node',
       ),
-      'mtime' => 1563294297,
+      'mtime' => 1564266145,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/history/history.info.yml',
       'status' => 1,
@@ -742,7 +742,7 @@ $options['packages'] = array (
         0 => 'drupal:file',
       ),
       'configure' => 'entity.image_style.collection',
-      'mtime' => 1563294297,
+      'mtime' => 1564266145,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/image/image.info.yml',
       'status' => 1,
@@ -756,7 +756,7 @@ $options['packages'] = array (
       'version' => '8.7.5',
       'core' => '8.x',
       'package' => 'Core',
-      'mtime' => 1563294297,
+      'mtime' => 1564266145,
       'dependencies' => 
       array (
       ),
@@ -777,7 +777,7 @@ $options['packages'] = array (
       array (
         0 => 'drupal:serialization',
       ),
-      'mtime' => 1563294297,
+      'mtime' => 1564266145,
       'version' => NULL,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/jsonapi/jsonapi.info.yml',
@@ -817,7 +817,7 @@ $options['packages'] = array (
         2 => 'drupal:field_ui',
         3 => 'drupal:block',
       ),
-      'mtime' => 1563294297,
+      'mtime' => 1564266145,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/layout_builder/layout_builder.info.yml',
       'status' => 0,
@@ -831,7 +831,7 @@ $options['packages'] = array (
       'package' => 'Core',
       'version' => '8.7.5',
       'core' => '8.x',
-      'mtime' => 1563294297,
+      'mtime' => 1564266145,
       'dependencies' => 
       array (
       ),
@@ -852,7 +852,7 @@ $options['packages'] = array (
       array (
         0 => 'drupal:field',
       ),
-      'mtime' => 1563294297,
+      'mtime' => 1564266145,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/link/link.info.yml',
       'status' => 1,
@@ -872,7 +872,7 @@ $options['packages'] = array (
         0 => 'drupal:language',
         1 => 'drupal:file',
       ),
-      'mtime' => 1563294297,
+      'mtime' => 1564266145,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/locale/locale.info.yml',
       'status' => 0,
@@ -893,7 +893,7 @@ $options['packages'] = array (
         2 => 'drupal:user',
       ),
       'configure' => 'media.settings',
-      'mtime' => 1563294297,
+      'mtime' => 1564266145,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/media/media.info.yml',
       'status' => 0,
@@ -913,7 +913,7 @@ $options['packages'] = array (
         1 => 'drupal:views',
         2 => 'drupal:user',
       ),
-      'mtime' => 1563294297,
+      'mtime' => 1564266145,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/media_library/media_library.info.yml',
       'status' => 0,
@@ -931,7 +931,7 @@ $options['packages'] = array (
       array (
         0 => 'drupal:link',
       ),
-      'mtime' => 1563294297,
+      'mtime' => 1564266145,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/menu_link_content/menu_link_content.info.yml',
       'status' => 1,
@@ -950,7 +950,7 @@ $options['packages'] = array (
       array (
         0 => 'drupal:menu_link_content',
       ),
-      'mtime' => 1563294297,
+      'mtime' => 1564266145,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/menu_ui/menu_ui.info.yml',
       'status' => 1,
@@ -964,7 +964,7 @@ $options['packages'] = array (
       'package' => 'Migration',
       'version' => '8.7.5',
       'core' => '8.x',
-      'mtime' => 1563294297,
+      'mtime' => 1564266145,
       'dependencies' => 
       array (
       ),
@@ -985,7 +985,7 @@ $options['packages'] = array (
       array (
         0 => 'drupal:migrate',
       ),
-      'mtime' => 1563294297,
+      'mtime' => 1564266145,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/migrate_drupal/migrate_drupal.info.yml',
       'status' => 0,
@@ -1002,7 +1002,7 @@ $options['packages'] = array (
       array (
         0 => 'migrate_drupal',
       ),
-      'mtime' => 1563294297,
+      'mtime' => 1564266146,
       'version' => NULL,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/migrate_drupal_multilingual/migrate_drupal_multilingual.info.yml',
@@ -1024,7 +1024,7 @@ $options['packages'] = array (
         1 => 'drupal:migrate_drupal',
         2 => 'drupal:dblog',
       ),
-      'mtime' => 1563294297,
+      'mtime' => 1564266146,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/migrate_drupal_ui/migrate_drupal_ui.info.yml',
       'status' => 0,
@@ -1043,7 +1043,7 @@ $options['packages'] = array (
       array (
         0 => 'drupal:text',
       ),
-      'mtime' => 1563294297,
+      'mtime' => 1564266146,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/node/node.info.yml',
       'status' => 1,
@@ -1062,7 +1062,7 @@ $options['packages'] = array (
         0 => 'drupal:field',
         1 => 'drupal:text',
       ),
-      'mtime' => 1563294297,
+      'mtime' => 1564266146,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/options/options.info.yml',
       'status' => 1,
@@ -1117,7 +1117,7 @@ $options['packages'] = array (
         1 => 'drupal:field',
         2 => 'drupal:filter',
       ),
-      'mtime' => 1563294297,
+      'mtime' => 1564266146,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/quickedit/quickedit.info.yml',
       'status' => 1,
@@ -1154,7 +1154,7 @@ $options['packages'] = array (
         1 => 'drupal:image',
       ),
       'configure' => 'entity.responsive_image_style.collection',
-      'mtime' => 1563294297,
+      'mtime' => 1564266146,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/responsive_image/responsive_image.info.yml',
       'status' => 0,
@@ -1172,7 +1172,7 @@ $options['packages'] = array (
       array (
         0 => 'drupal:serialization',
       ),
-      'mtime' => 1563294297,
+      'mtime' => 1564266146,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/rest/rest.info.yml',
       'status' => 0,
@@ -1227,7 +1227,7 @@ $options['packages'] = array (
         1 => 'drupal:toolbar',
         2 => 'drupal:contextual',
       ),
-      'mtime' => 1563294297,
+      'mtime' => 1564266146,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/settings_tray/settings_tray.info.yml',
       'status' => 0,
@@ -1246,7 +1246,7 @@ $options['packages'] = array (
       array (
         0 => 'drupal:link',
       ),
-      'mtime' => 1563294297,
+      'mtime' => 1564266146,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/shortcut/shortcut.info.yml',
       'status' => 1,
@@ -1283,7 +1283,7 @@ $options['packages'] = array (
       array (
         0 => 'drupal:node',
       ),
-      'mtime' => 1563294297,
+      'mtime' => 1564266147,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/statistics/statistics.info.yml',
       'status' => 0,
@@ -1340,7 +1340,7 @@ $options['packages'] = array (
         1 => 'drupal:text',
       ),
       'configure' => 'entity.taxonomy_vocabulary.collection',
-      'mtime' => 1563294297,
+      'mtime' => 1564266147,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/taxonomy/taxonomy.info.yml',
       'status' => 1,
@@ -1358,7 +1358,7 @@ $options['packages'] = array (
       array (
         0 => 'drupal:field',
       ),
-      'mtime' => 1563294297,
+      'mtime' => 1564266147,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/telephone/telephone.info.yml',
       'status' => 0,
@@ -1377,7 +1377,7 @@ $options['packages'] = array (
         0 => 'drupal:field',
         1 => 'drupal:filter',
       ),
-      'mtime' => 1563294297,
+      'mtime' => 1564266147,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/text/text.info.yml',
       'status' => 1,
@@ -1395,7 +1395,7 @@ $options['packages'] = array (
       array (
         0 => 'drupal:breakpoint',
       ),
-      'mtime' => 1563294297,
+      'mtime' => 1564266147,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/toolbar/toolbar.info.yml',
       'status' => 1,
@@ -1431,7 +1431,7 @@ $options['packages'] = array (
       'package' => 'Core',
       'version' => '8.7.5',
       'core' => '8.x',
-      'mtime' => 1563294297,
+      'mtime' => 1564266147,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/tracker/tracker.info.yml',
       'status' => 0,
@@ -1450,7 +1450,7 @@ $options['packages'] = array (
       array (
         0 => 'drupal:file',
       ),
-      'mtime' => 1563294297,
+      'mtime' => 1564266148,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/update/update.info.yml',
       'status' => 1,
@@ -1470,7 +1470,7 @@ $options['packages'] = array (
       array (
         0 => 'drupal:system',
       ),
-      'mtime' => 1563294297,
+      'mtime' => 1564266148,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/user/user.info.yml',
       'status' => 1,
@@ -1488,7 +1488,7 @@ $options['packages'] = array (
       array (
         0 => 'drupal:filter',
       ),
-      'mtime' => 1563294297,
+      'mtime' => 1564266148,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/views/views.info.yml',
       'status' => 1,
@@ -1507,7 +1507,7 @@ $options['packages'] = array (
       array (
         0 => 'drupal:views',
       ),
-      'mtime' => 1563294297,
+      'mtime' => 1564266148,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/views_ui/views_ui.info.yml',
       'status' => 1,
@@ -1522,7 +1522,7 @@ $options['packages'] = array (
       'core' => '8.x',
       'package' => 'Core',
       'configure' => 'entity.workflow.collection',
-      'mtime' => 1563294297,
+      'mtime' => 1564266148,
       'dependencies' => 
       array (
       ),
@@ -1544,7 +1544,7 @@ $options['packages'] = array (
       array (
         0 => 'drupal:user',
       ),
-      'mtime' => 1563294297,
+      'mtime' => 1564266149,
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/core/modules/workspaces/workspaces.info.yml',
       'status' => 0,
@@ -1630,6 +1630,101 @@ $options['packages'] = array (
       'status' => 0,
       'schema_version' => -1,
     ),
+    'devel' => 
+    array (
+      'type' => 'module',
+      'name' => 'Devel',
+      'description' => 'Various blocks, pages, and functions for developers.',
+      'package' => 'Development',
+      'configure' => 'devel.admin_settings',
+      'tags' => 
+      array (
+        0 => 'developer',
+      ),
+      'version' => '8.x-2.1',
+      'core' => '8.x',
+      'project' => 'devel',
+      'datestamp' => 1556799504,
+      'mtime' => 1556799504,
+      'dependencies' => 
+      array (
+      ),
+      'php' => '5.5.9',
+      'filename' => '/private/var/aegir/platforms/projectd8/modules/contrib/devel/devel.info.yml',
+      'status' => 0,
+      'schema_version' => -1,
+    ),
+    'devel_generate' => 
+    array (
+      'type' => 'module',
+      'name' => 'Devel Generate',
+      'description' => 'Generate dummy users, nodes, menus, taxonomy terms...',
+      'package' => 'Development',
+      'tags' => 
+      array (
+        0 => 'developer',
+      ),
+      'version' => '8.x-2.1',
+      'core' => '8.x',
+      'project' => 'devel',
+      'datestamp' => 1556799504,
+      'mtime' => 1556799504,
+      'dependencies' => 
+      array (
+      ),
+      'php' => '5.5.9',
+      'filename' => '/private/var/aegir/platforms/projectd8/modules/contrib/devel/devel_generate/devel_generate.info.yml',
+      'status' => 0,
+      'schema_version' => -1,
+    ),
+    'kint' => 
+    array (
+      'name' => 'Devel Kint',
+      'type' => 'module',
+      'description' => 'Wrapper for Kint debugging tool.',
+      'package' => 'Development',
+      'tags' => 
+      array (
+        0 => 'developer',
+      ),
+      'version' => '8.x-2.1',
+      'core' => '8.x',
+      'project' => 'devel',
+      'datestamp' => 1556799504,
+      'mtime' => 1556799504,
+      'dependencies' => 
+      array (
+      ),
+      'php' => '5.5.9',
+      'filename' => '/private/var/aegir/platforms/projectd8/modules/contrib/devel/kint/kint.info.yml',
+      'status' => 0,
+      'schema_version' => -1,
+    ),
+    'webprofiler' => 
+    array (
+      'name' => 'Web Profiler',
+      'type' => 'module',
+      'description' => 'Drupal Web Profiler.',
+      'package' => 'Development',
+      'configure' => 'webprofiler.settings',
+      'tags' => 
+      array (
+        0 => 'developer',
+      ),
+      'dependencies' => 
+      array (
+        0 => 'devel:devel',
+      ),
+      'version' => '8.x-2.1',
+      'core' => '8.x',
+      'project' => 'devel',
+      'datestamp' => 1556799504,
+      'mtime' => 1556799504,
+      'php' => '5.5.9',
+      'filename' => '/private/var/aegir/platforms/projectd8/modules/contrib/devel/webprofiler/webprofiler.info.yml',
+      'status' => 0,
+      'schema_version' => -1,
+    ),
     'pathauto' => 
     array (
       'name' => 'Pathauto',
@@ -1655,6 +1750,70 @@ $options['packages'] = array (
       'package' => 'Other',
       'php' => '5.5.9',
       'filename' => '/private/var/aegir/platforms/projectd8/modules/contrib/pathauto/pathauto.info.yml',
+      'status' => 0,
+      'schema_version' => -1,
+    ),
+    'redirect_404' => 
+    array (
+      'name' => 'Redirect 404',
+      'type' => 'module',
+      'description' => 'Logs 404 errors and allows users to create redirects for often requested but missing pages.',
+      'dependencies' => 
+      array (
+        0 => 'redirect',
+        1 => 'views',
+      ),
+      'version' => '8.x-1.4',
+      'core' => '8.x',
+      'project' => 'redirect',
+      'datestamp' => 1561757587,
+      'mtime' => 1561757587,
+      'package' => 'Other',
+      'php' => '5.5.9',
+      'filename' => '/private/var/aegir/platforms/projectd8/modules/contrib/redirect/modules/redirect_404/redirect_404.info.yml',
+      'status' => 0,
+      'schema_version' => -1,
+    ),
+    'redirect_domain' => 
+    array (
+      'name' => 'Redirect Domain',
+      'type' => 'module',
+      'description' => 'Allows users to redirect between domains.',
+      'dependencies' => 
+      array (
+        0 => 'redirect',
+      ),
+      'version' => '8.x-1.4',
+      'core' => '8.x',
+      'project' => 'redirect',
+      'datestamp' => 1561757587,
+      'mtime' => 1561757587,
+      'package' => 'Other',
+      'php' => '5.5.9',
+      'filename' => '/private/var/aegir/platforms/projectd8/modules/contrib/redirect/modules/redirect_domain/redirect_domain.info.yml',
+      'status' => 0,
+      'schema_version' => -1,
+    ),
+    'redirect' => 
+    array (
+      'name' => 'Redirect',
+      'type' => 'module',
+      'description' => 'Allows users to redirect from old URLs to new URLs.',
+      'configure' => 'redirect.settings',
+      'dependencies' => 
+      array (
+        0 => 'drupal:link',
+        1 => 'drupal:views',
+        2 => 'drupal:system (>= 8.5)',
+      ),
+      'version' => '8.x-1.4',
+      'core' => '8.x',
+      'project' => 'redirect',
+      'datestamp' => 1561757587,
+      'mtime' => 1561757587,
+      'package' => 'Other',
+      'php' => '5.5.9',
+      'filename' => '/private/var/aegir/platforms/projectd8/modules/contrib/redirect/redirect.info.yml',
       'status' => 0,
       'schema_version' => -1,
     ),
@@ -1840,7 +1999,7 @@ $options['packages'] = array (
         0 => 'bartik',
         1 => 'seven',
       ),
-      'mtime' => 1563294297,
+      'mtime' => 1564266149,
       'dependencies' => 
       array (
       ),
@@ -1969,7 +2128,7 @@ $options['packages'] = array (
           0 => 'classy/progress',
         ),
       ),
-      'mtime' => 1563294297,
+      'mtime' => 1564266150,
       'engine' => 'twig',
       'base theme' => 'stable',
       'regions' => 
@@ -2126,7 +2285,7 @@ $options['packages'] = array (
         1 => 'page_top',
         2 => 'page_bottom',
       ),
-      'mtime' => 1563294297,
+      'mtime' => 1564266150,
       'engine' => 'twig',
       'features' => 
       array (
@@ -2743,7 +2902,7 @@ $options['packages'] = array (
           ),
         ),
       ),
-      'mtime' => 1563294297,
+      'mtime' => 1564266150,
       'engine' => 'twig',
       'regions' => 
       array (
@@ -2795,7 +2954,7 @@ $options['packages'] = array (
       'package' => 'Core',
       'version' => '8.7.5',
       'core' => '8.x',
-      'mtime' => 1563294297,
+      'mtime' => 1564266150,
       'engine' => 'twig',
       'regions' => 
       array (
