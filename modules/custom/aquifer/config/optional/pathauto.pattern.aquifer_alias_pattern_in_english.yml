@@ -1,0 +1,22 @@
+uuid: a645418f-419b-4765-8cb8-1509c0a1112f
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: aquifer_alias_pattern_in_english
+label: 'Aquifer alias pattern in English'
+type: 'canonical_entities:node'
+pattern: 'aquifer/[node:title]'
+selection_criteria:
+  fdfaec24-9c6c-49db-b878-3fa1fc3c1b9a:
+    id: node_type
+    bundles:
+      aquifer: aquifer
+    negate: false
+    context_mapping:
+      node: node
+    uuid: fdfaec24-9c6c-49db-b878-3fa1fc3c1b9a
+selection_logic: and
+weight: -5
+relationships: {  }

@@ -32,3 +32,4 @@ content:
 hidden:
   field_product: true
   field_related_video: true
+  langcode: true

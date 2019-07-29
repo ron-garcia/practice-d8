@@ -1,0 +1,14 @@
+langcode: en
+status: true
+dependencies: {  }
+name: product_large_400w
+label: 'Product Large 480w'
+effects:
+  7438f854-ae70-44f3-9a9a-1216640332a8:
+    uuid: 7438f854-ae70-44f3-9a9a-1216640332a8
+    id: image_scale
+    weight: 1
+    data:
+      width: 480
+      height: null
+      upscale: false

@@ -1,0 +1,30 @@
+uuid: fa6e6c0b-d31d-4cc6-9e22-f4c05d9bc00e
+langcode: en
+status: true
+dependencies:
+  module:
+    - ctools
+    - product_guide
+  theme:
+    - bartik
+id: linkfortheproductguidetour.
+theme: bartik
+region: sidebar_first
+weight: 0
+provider: null
+plugin: product_tour_link
+settings:
+  id: product_tour_link
+  label: 'Link for the Product Guide tour.'
+  provider: product_guide
+  label_display: visible
+  context_mapping:
+    node: '@node.node_route_context:node'
+visibility:
+  'entity_bundle:node':
+    id: 'entity_bundle:node'
+    bundles:
+      book: book
+    negate: false
+    context_mapping:
+      node: '@node.node_route_context:node'

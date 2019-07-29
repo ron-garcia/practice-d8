@@ -1,0 +1,7 @@
+name: Product Guide
+description: Functionality for the product guides
+package: Custom
+dependencies:
+  - book
+type: module
+core: 8.x
